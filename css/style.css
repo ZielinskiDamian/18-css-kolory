@@ -1,0 +1,17 @@
+section {
+	background-color: #faebd6;
+	width: 1500px;
+	height: 700px;
+}
+h1 {
+	color: #ff0000;
+	font-size: 3em;
+}
+.paragraf1 {
+	color: #a42423;
+	font-size: 2em;
+}
+.paragraf2 {
+	color: #00008f;
+	font-size: 2em;
+}
